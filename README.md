@@ -1,8 +1,8 @@
-## 👋 Hey everyone, I'm Thirapat12 Working on TP Consulting Outsource at AIS ITSM  ®™ 👋
+## 👋 Hey everyone, I'm Working on TP Consulting Outsource DevOps Engineer at AIS ITSM  ®™ 👋
 
 - 👋 Hi, I’m Thirapat12
 - 👀 I’m interested in DevOps engineer
-- 🌱 I’m currently learning to English Language, DevOps Flow CNCF
+- 🌱 I’m currently learning to English Language, DevOps Flow CNCF Landscape
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
