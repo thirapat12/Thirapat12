@@ -1,4 +1,4 @@
-## 👋 Hey everyone, I'm Thirapat12 Working on TP Consulting Outsourc at AIS ITSM  ®™ 👋
+## 👋 Hey everyone, I'm Thirapat12 Working on TP Consulting Outsource at AIS ITSM  ®™ 👋
 
 - 👋 Hi, I’m @Thirapat1258
 - 👀 I’m interested in ...
