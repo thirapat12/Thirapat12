@@ -1,4 +1,4 @@
-## 👋 Hey everyone, I'm Working on TP Consulting Outsource DevOps Engineer at AIS ITSM  ®™ 👋
+## 👋 Hey everyone, I'm Working on TP Consulting Outsource at AIS ITSM  ®™ 👋
 
 - 👋 Hi, I’m Thirapat12
 - 👀 I’m interested in DevOps engineer
