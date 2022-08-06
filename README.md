@@ -11,6 +11,11 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+## 👋 Skills 👋
+- Tools : Docker, Jenkins (Jenkins pipeline), K8S, Helm, Nexus Sonatype, Nginx 
+- Operation As Service : Ansible ( AWX ), Rundesk
+- Observability : ELK Stack, Graylog, Prometheus, Grafana
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=oerj8c7l8jz5bcppkuy2xw7kz&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <div id="badges">
