@@ -1,3 +1,7 @@
+<img src="https://pbs.twimg.com/profile_banners/103196866/1644166609/1500x500" alt="Page"/>
+
+
+
 ## 👋 Hey everyone 👋
 
 - 👋 Hi, I’m Thirapat12
