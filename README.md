@@ -12,9 +12,9 @@
 - 📫 How to reach me ...
 
 ## 👋 Skills 👋
-- DevOps : Docker, Jenkins (Jenkins pipeline), K8S, Helm, Nexus Sonatype, Nginx 
+- DevOps : Docker, Jenkins (Jenkins pipeline), K8S, Helm, Nexus Sonatype, Nginx, gitlab ci, github action
 - OAAS ( Operation as a service ) : Ansible ( AWX ), Rundesk
-- Observability : ELK Stack, Graylog, Prometheus, Grafana
+- Observability : ELK Stack, Graylog, Prometheus, Grafana, fluentd, exporter etc.
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=oerj8c7l8jz5bcppkuy2xw7kz&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
