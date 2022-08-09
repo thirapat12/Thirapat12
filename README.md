@@ -1,16 +1,17 @@
 <img src="https://pbs.twimg.com/profile_banners/103196866/1644166609/1500x500" alt="Page"/>
 
+## <p align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30 /> Hi, I’m Thirapat Amornsin ( Thirapat12 )</p>
 
+## 👋 About Me 👋  
+Versatile IT support and Systems Engineer with over 5 years of cross-functional leadership in implementation validation and deployment for the whole organization. Exceptional knowledge of CI/CD operation with hands-on experience of DevOps Engineer over 3 years. 
 
-## 👋 Hey everyone 👋
-
-- 👋 Hi, I’m Thirapat12. 
-Versatile IT support and Systems Engineer with over 5 years of cross-functional leadership in implementation validation and deployment for the whole organization. Exceptional knowledge of ci/cd operation with hands-on experience of DevOps Engineer over 3 years. 
 - I'm Work on TP Consulting Outsourcing at AIS ( Advanced Info Services Public Company Limited - ITSM )
-- 👀 I’m interested in DevOps Engineer On CLOUD
-- 🌱 I’m currently learning to English Language, DevOps Flow CNCF Landscape
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in DevOps Engineer & Data Analysis
+- 🌱 I’m currently learning to english language, DevOps Flow CNCF landscape
+- 📫 How to reach me wisineeethirapat@gmail.com
+- 💬 Ask me about Docker, Nginx, Jenkins( Jenkins Pipeline CI/CD ), K8S, ELK Stack, etc..
+
+<p align="center"><img src="https://user-images.githubusercontent.com/7834790/183679318-f36690a0-8c11-4ec1-af94-0b1ac36b4d20.png" width=50% /></p>
 
 ## 👋 Skills 👋
 - DevOps : Docker, Jenkins (Jenkins pipeline), K8S, Helm, Nexus Sonatype, Nginx, gitlab ci, github action
