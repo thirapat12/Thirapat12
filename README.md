@@ -6,7 +6,7 @@
 
 - 👋 Hi, I’m Thirapat12
 - I'm Work on TP Consulting Outsourcing at AIS ( Advanced Info Services Public Company Limited - ITSM )
-- 👀 I’m interested in DevOps engineer
+- 👀 I’m interested in DevOps Engineer On CLOUD
 - 🌱 I’m currently learning to English Language, DevOps Flow CNCF Landscape
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
