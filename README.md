@@ -4,7 +4,8 @@
 
 ## 👋 Hey everyone 👋
 
-- 👋 Hi, I’m Thirapat12
+- 👋 Hi, I’m Thirapat12. 
+Versatile IT support and Systems Engineer with over 5 years of cross-functional leadership in implementation validation and deployment for the whole organization. Exceptional knowledge of ci/cd operation with hands-on experience of DevOps Engineer over 3 years. 
 - I'm Work on TP Consulting Outsourcing at AIS ( Advanced Info Services Public Company Limited - ITSM )
 - 👀 I’m interested in DevOps Engineer On CLOUD
 - 🌱 I’m currently learning to English Language, DevOps Flow CNCF Landscape
