@@ -46,7 +46,7 @@ Versatile IT support and Systems Engineer with over 5 years of cross-functional 
 ![Debian](https://img.shields.io/badge/debian-%23A81D33.svg?style=for-the-badge&logo=Debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-%231793D1.svg?style=for-the-badge&logo=Ubuntu&logoColor=white)
 ![Redhat](https://img.shields.io/badge/Redhat-%239D9D9D.svg?style=for-the-badge&logo=Redhat&logoColor=white)
-![Windows](https://img.shields.io/badge/windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/windows-client/server-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
 
 <div id="badges">
 <a href="https://thirapat12.com" target="_blank"><img src="https://img.shields.io/badge/THIRAPAT12-%231DA1F2.svg?style=for-the-badge&logo=website&logoColor=white"></a> 
