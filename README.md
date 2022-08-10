@@ -16,22 +16,36 @@ Versatile IT support and Systems Engineer with over 5 years of cross-functional 
 ## 👋 Skills 👋
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23ED1944.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Vmware Esxi](https://img.shields.io/badge/ESXi-%23607078.svg?style=for-the-badge&logo=vmware&logoColor=white)
-![PROXMOx](https://img.shields.io/badge/proxmox-%23E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white)
-![ELK STACK](https://img.shields.io/badge/ELK-%23CC2936.svg?style=for-the-badge&logo=ELK&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%230CA100.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![ANSIBLE AWX](https://img.shields.io/badge/ansible-%23FF0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%230A66C2.svg?style=for-the-badge&logo=Kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/helm-%230A66C2.svg?style=for-the-badge&logo=Helm&logoColor=white)
+![Vmware ESXI](https://img.shields.io/badge/ESXI-%23607078.svg?style=for-the-badge&logo=vmware&logoColor=white)
+![PROXMOX](https://img.shields.io/badge/proxmox-%23E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white)
+![Nexus Sonatype](https://img.shields.io/badge/nexus-sonatype-%230B8301.svg?style=for-the-badge&logo=sonatype&logoColor=white)
+![ELK STACK](https://img.shields.io/badge/ELK-STACK-%23ECF30B.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-%231572B6.svg?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Graylog](https://img.shields.io/badge/Graylog-%23F46800.svg?style=for-the-badge&logo=Graylog&logoColor=white)
 ![WordPress](https://img.shields.io/badge/wordpress-%2321759B.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
-![Prometheus](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 ![Office](https://img.shields.io/badge/office_suite-%23D83B01.svg?style=for-the-badge&logo=MicrosoftOffice&logoColor=white)
 ![Python Basic](https://img.shields.io/badge/python-%233570A0.svg?style=for-the-badge&logo=python&logoColor=FFE05D)
 ![Bash](https://img.shields.io/badge/bash-%23CDCDCE.svg?style=for-the-badge&logo=gnubash&logoColor=1B1B1F)
 ![Powershell](https://img.shields.io/badge/powershell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=1B1B1F)
 
-- DevOps : Docker, Jenkins (Jenkins pipeline), K8S, Helm, Nexus Sonatype, Nginx, gitlab ci, github action
+<!-- - DevOps : Docker, Jenkins (Jenkins pipeline), K8S, Helm, Nexus Sonatype, Nginx, gitlab ci, github action
 - OAAS ( Operation as a service ) : Ansible ( AWX ), Rundesk
-- Observability : ELK Stack, Graylog, Prometheus, Grafana, fluentd, exporter etc.
+- Observability : ELK Stack, Graylog, Prometheus, Grafana, fluentd, exporter etc. -->
+
+  <h2> Operating System <img src = "https://media1.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif?cid=ecf05e47o85shd30d0qgkajffwr0b06zj4dt9onfr4vnehqk&rid=giphy.gif&ct=s" alt="PAPAMICA" height="50" width="60"> </h2>
+
+![MacOS](https://img.shields.io/badge/macos-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
+![Debian](https://img.shields.io/badge/debian-%23A81D33.svg?style=for-the-badge&logo=Debian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-%231793D1.svg?style=for-the-badge&logo=Ubuntu&logoColor=white)
+![Redhat](https://img.shields.io/badge/Redhat-%239D9D9D.svg?style=for-the-badge&logo=Redhat&logoColor=white)
+![Windows](https://img.shields.io/badge/windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
+
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=oerj8c7l8jz5bcppkuy2xw7kz&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
