@@ -38,7 +38,7 @@ Versatile IT support and Systems Engineer with over 5 years of cross-functional 
 - OAAS ( Operation as a service ) : Ansible ( AWX ), Rundesk
 - Observability : ELK Stack, Graylog, Prometheus, Grafana, fluentd, exporter etc. -->
 
-  <h2> Operating System <img src = "" alt="" height="50" width="60"> </h2>
+  <h2> Operating System <!--<img src = "" alt="" height="50" width="60">--> </h2>
 
 ![MacOS](https://img.shields.io/badge/macos-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 ![Debian](https://img.shields.io/badge/debian-%23A81D33.svg?style=for-the-badge&logo=Debian&logoColor=white)
@@ -69,6 +69,7 @@ Versatile IT support and Systems Engineer with over 5 years of cross-functional 
 <a href="https://discord.gg/qRQAkQVN" target="_blank"><img src="https://img.shields.io/badge/THIRAPAT12-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/thirapat-amornsin-9825ab15a"><img src="https://img.shields.io/badge/Thirapat_Amornsin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.youtube.com/c/ThirapatAmornsin" target="_blank"><img src="https://img.shields.io/badge/Phattime-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://instagram/thirapat12" target="_blank"><img src="https://img.shields.io/badge/Thirapat12-%23EF4C20.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 <div align="center"><img align="center" src="https://visitor-badge.glitch.me/badge?page_id=THIRAPAT1258.THIRAPAT1258" alt="THIRAPAT12" /></div>
 
