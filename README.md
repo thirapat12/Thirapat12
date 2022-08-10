@@ -14,7 +14,8 @@ Versatile IT support and Systems Engineer with over 5 years of cross-functional 
 <p align="center"><img src="https://user-images.githubusercontent.com/7834790/183679318-f36690a0-8c11-4ec1-af94-0b1ac36b4d20.png" width=50% /></p>
 
 ## 👋 Skills 👋
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Gitlab](https://img.shields.io/badge/gitlab-ci-%23F05032.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Github](https://img.shields.io/badge/github-action-%23F05032.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%230CA100.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![ANSIBLE AWX](https://img.shields.io/badge/ansible-%23FF0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
@@ -30,7 +31,7 @@ Versatile IT support and Systems Engineer with over 5 years of cross-functional 
 ![WordPress](https://img.shields.io/badge/wordpress-%2321759B.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 ![Office](https://img.shields.io/badge/office_suite-%23D83B01.svg?style=for-the-badge&logo=MicrosoftOffice&logoColor=white)
-![Python Basic](https://img.shields.io/badge/python-%233570A0.svg?style=for-the-badge&logo=python&logoColor=FFE05D)
+![Python Basic](https://img.shields.io/badge/python-basic-%233570A0.svg?style=for-the-badge&logo=python&logoColor=FFE05D)
 ![Bash](https://img.shields.io/badge/bash-%23CDCDCE.svg?style=for-the-badge&logo=gnubash&logoColor=1B1B1F)
 ![Powershell](https://img.shields.io/badge/powershell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=1B1B1F)
 
