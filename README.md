@@ -11,7 +11,7 @@ Versatile IT support and Systems Engineer with over 5 years of cross-functional 
 - 📫 How to reach me wisineethirapat@gmail.com
 - 💬 Ask me about Docker, Nginx, Jenkins( Jenkins Pipeline CI/CD ), K8S, ELK Stack, etc..
 
-<p align="center"><img src="https://user-images.githubusercontent.com/7834790/183679318-f36690a0-8c11-4ec1-af94-0b1ac36b4d20.png" width=50% /></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/7834790/183679318-f36690a0-8c11-4ec1-af94-0b1ac36b4d20.png" width=60% /></p>
 
 ## 👋 Skills 👋
 ![Gitlab](https://img.shields.io/badge/gitlab-ci-%23F05032.svg?style=for-the-badge&logo=gitlab&logoColor=white)
