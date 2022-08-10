@@ -71,6 +71,8 @@ Versatile IT support and Systems Engineer with over 5 years of cross-functional 
 <a href="https://www.linkedin.com/in/thirapat-amornsin-9825ab15a"><img src="https://img.shields.io/badge/Thirapat_Amornsin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 <a href="https://www.youtube.com/c/ThirapatAmornsin"><img src="https://img.shields.io/badge/Phattime-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"></a>
 
+<div align="center"><img align="center" src="https://visitor-badge.glitch.me/badge?page_id=THIRAPAT1258.THIRAPAT1258" alt="THIRAPAT12" /></div>
+
 <!---
 Thirapat1258/Thirapat1258 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
