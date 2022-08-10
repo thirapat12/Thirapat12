@@ -1,7 +1,5 @@
 <img src="https://pbs.twimg.com/profile_banners/103196866/1644166609/1500x500" alt="Page"/>
 
-<p align="center"><img src="" alt="blank"/></p>
-
 ## <p align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30 /> Hi, I’m Thirapat Amornsin ( Thirapat12 )</p>
 
 ## 👋 About Me 👋  
