@@ -51,24 +51,24 @@ Versatile IT support and Systems Engineer with over 5 years of cross-functional 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thirapat1258&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/thirapat-amornsin-9825ab15a/">
+  <a href="https://www.linkedin.com/in/thirapat-amornsin-9825ab15a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCKdHu_pDa3ilpWqesyLHjTg">
+  <a href="https://www.youtube.com/channel/UCKdHu_pDa3ilpWqesyLHjTg" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://twitter.com/thirapat12">
+  <a href="https://twitter.com/thirapat12" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-   <a href="https://twitter.com/thirapat12">
+   <a href="https://twitter.com/thirapat12" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
 
-<a href="https://thirapat12.com"><img src="https://img.shields.io/badge/@THIRAPAT12-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a> 
-<a href="https://discord.gg/qRQAkQVN"><img src="https://img.shields.io/badge/THIRAPAT12-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a> 
+<a href="https://thirapat12.com" target="_blank"><img src="https://img.shields.io/badge/@THIRAPAT12-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a> 
+<a href="https://discord.gg/qRQAkQVN" target="_blank"><img src="https://img.shields.io/badge/THIRAPAT12-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a> 
 <a href="https://www.linkedin.com/in/thirapat-amornsin-9825ab15a"><img src="https://img.shields.io/badge/Thirapat_Amornsin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-<a href="https://www.youtube.com/c/ThirapatAmornsin"><img src="https://img.shields.io/badge/Phattime-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://www.youtube.com/c/ThirapatAmornsin" target="_blank"><img src="https://img.shields.io/badge/Phattime-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"></a>
 
 <div align="center"><img align="center" src="https://visitor-badge.glitch.me/badge?page_id=THIRAPAT1258.THIRAPAT1258" alt="THIRAPAT12" /></div>
 
