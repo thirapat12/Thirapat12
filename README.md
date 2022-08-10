@@ -32,6 +32,7 @@ Versatile IT support and Systems Engineer with over 5 years of cross-functional 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 ![Office](https://img.shields.io/badge/office_suite-%23D83B01.svg?style=for-the-badge&logo=MicrosoftOffice&logoColor=white)
 ![Python Basic](https://img.shields.io/badge/python-basic-%233570A0.svg?style=for-the-badge&logo=python&logoColor=FFE05D)
+![Photoshop](https://img.shields.io/badge/Adobe-Photoshop-%23CDCDCE.svg?style=for-the-badge&logo=Adobe&logoColor=1B1B1F)
 ![Bash](https://img.shields.io/badge/bash-%23CDCDCE.svg?style=for-the-badge&logo=gnubash&logoColor=1B1B1F)
 ![Powershell](https://img.shields.io/badge/powershell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=1B1B1F)
 
