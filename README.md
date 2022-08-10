@@ -38,14 +38,13 @@ Versatile IT support and Systems Engineer with over 5 years of cross-functional 
 - OAAS ( Operation as a service ) : Ansible ( AWX ), Rundesk
 - Observability : ELK Stack, Graylog, Prometheus, Grafana, fluentd, exporter etc. -->
 
-  <h2> Operating System <img src = "https://media1.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif?cid=ecf05e47o85shd30d0qgkajffwr0b06zj4dt9onfr4vnehqk&rid=giphy.gif&ct=s" alt="PAPAMICA" height="50" width="60"> </h2>
+  <h2> Operating System <img src = "" alt="" height="50" width="60"> </h2>
 
 ![MacOS](https://img.shields.io/badge/macos-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 ![Debian](https://img.shields.io/badge/debian-%23A81D33.svg?style=for-the-badge&logo=Debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-%231793D1.svg?style=for-the-badge&logo=Ubuntu&logoColor=white)
 ![Redhat](https://img.shields.io/badge/Redhat-%239D9D9D.svg?style=for-the-badge&logo=Redhat&logoColor=white)
 ![Windows](https://img.shields.io/badge/windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
-
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=oerj8c7l8jz5bcppkuy2xw7kz&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
