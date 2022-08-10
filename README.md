@@ -2,6 +2,15 @@
 
 ## <p align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30 /> Hi, I’m Thirapat Amornsin ( Thirapat12 )</p>
 
+name: Example
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.classic.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: header, repositories
+  plugin_lines: yes
+
+
 ## 👋 About Me 👋  
 Versatile IT support and Systems Engineer with over 5 years of cross-functional leadership in implementation validation and deployment for the whole organization. Exceptional knowledge of CI/CD operation with hands-on experience of DevOps Engineer over 3 years. 
 
@@ -31,6 +40,9 @@ Versatile IT support and Systems Engineer with over 5 years of cross-functional 
   </a>
   <a href="https://twitter.com/thirapat12">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+   <a href="https://twitter.com/thirapat12">
+    <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
 
