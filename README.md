@@ -46,7 +46,7 @@ Versatile IT support and Systems Engineer with over 5 years of cross-functional 
 ![Debian](https://img.shields.io/badge/debian-%23A81D33.svg?style=for-the-badge&logo=Debian&logoColor=white)
 ![MacOS](https://img.shields.io/badge/macos-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 ![Redhat](https://img.shields.io/badge/Redhat-%239D9D9D.svg?style=for-the-badge&logo=Redhat&logoColor=white)
-![Coreos](https://img.shields.io/badge/fedora-coreos-%239D9D9D.svg?style=for-the-badge&logo=fedora&logoColor=white)
+![Coreos](https://img.shields.io/badge/fedora-coreos-%23CF53E8.svg?style=for-the-badge&logo=fedora&logoColor=white)
 
 ## :earth_asia: Social media 
 <div id="badges">
