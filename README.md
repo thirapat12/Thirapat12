@@ -1,6 +1,6 @@
 <img src="https://pbs.twimg.com/profile_banners/103196866/1644166609/1500x500" alt="Page"/>
 
-## <p align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30 /> Hi, I’m Thirapat Amornsin ( Thirapat12 )</p>
+## <p align="center">:beginner: Hi, I’m Thirapat Amornsin ( Thirapat12 )</p>
 
 ## :headphones: About Me 👋  
 Versatile IT support and Systems Engineer with over 5 years of cross-functional leadership in implementation validation and deployment for the whole organization. Exceptional knowledge of CI/CD operation with hands-on experience of DevOps Engineer over 3 years. 
