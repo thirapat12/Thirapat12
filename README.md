@@ -18,6 +18,7 @@ Versatile IT support and Systems Engineer with over 5 years of cross-functional 
 ![Github](https://img.shields.io/badge/github-action-%23F05032.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins CI/CD](https://img.shields.io/badge/jenkins-ci/cd-%230db7ed.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Sonarqube](https://img.shields.io/badge/Sonarqube-%230db7ed.svg?style=for-the-badge&logo=Sonarqube&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%230CA100.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![ANSIBLE AWX](https://img.shields.io/badge/ansible-awx-%23FF0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%230A66C2.svg?style=for-the-badge&logo=Kubernetes&logoColor=white)
