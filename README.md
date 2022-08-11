@@ -29,6 +29,7 @@ Versatile IT support and Systems Engineer with over 5 years of cross-functional 
 ![Prometheus](https://img.shields.io/badge/Prometheus-%231572B6.svg?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Graylog](https://img.shields.io/badge/Graylog-%23B1BABB.svg?style=for-the-badge&logo=Graylog&logoColor=white)
+![fluentd](https://img.shields.io/badge/fluentd-bit-%230A66C2.svg?style=for-the-badge&logo=fluentd&logoColor=white)
 ![uptime-kuma](https://img.shields.io/badge/uptime-kuma-%23B1BABB.svg?style=for-the-badge&logo=uptime-kuma&logoColor=white)
 ![WordPress](https://img.shields.io/badge/wordpress-%2321759B.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
