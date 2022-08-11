@@ -2,18 +2,18 @@
 
 ## <p align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30 /> Hi, I’m Thirapat Amornsin ( Thirapat12 )</p>
 
-## 👋 About Me 👋  
+## :headphones: About Me 👋  
 Versatile IT support and Systems Engineer with over 5 years of cross-functional leadership in implementation validation and deployment for the whole organization. Exceptional knowledge of CI/CD operation with hands-on experience of DevOps Engineer over 3 years. 
 
 - I'm Work on TP Consulting Outsourcing at AIS ( Advanced Info Services Public Company Limited - ITSM )
-- 👀 I’m interested in DevOps Engineer & Data Analysis
-- 🌱 I’m currently learning to english language, DevOps Flow CNCF landscape
-- 📫 How to reach me wisineethirapat@gmail.com
-- 💬 Ask me about Docker, Nginx, Jenkins( Jenkins Pipeline CI/CD ), K8S, ELK Stack, etc..
-
+- :icecream: I’m interested in DevOps Engineer & Data Analysis
+- :book: I’m currently learning to english language, DevOps Flow CNCF landscape
+- :space_invader: How to reach me wisineethirapat@gmail.com
+- :circus_tent: Ask me about Docker, Nginx, Jenkins( Jenkins Pipeline CI/CD ), K8S, ELK Stack, etc..
+## 
 <p align="center"><img src="https://user-images.githubusercontent.com/7834790/183679318-f36690a0-8c11-4ec1-af94-0b1ac36b4d20.png" width=60% /></p>
 
-## 👋 Skills 👋
+## :mega: Skills 
 ![Gitlab](https://img.shields.io/badge/gitlab-ci-%23F05032.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Github](https://img.shields.io/badge/github-action-%23F05032.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -40,14 +40,14 @@ Versatile IT support and Systems Engineer with over 5 years of cross-functional 
 - OAAS ( Operation as a service ) : Ansible ( AWX ), Rundesk
 - Observability : ELK Stack, Graylog, Prometheus, Grafana, fluentd, exporter etc. -->
 
-  <h2> Operating System <!--<img src = "" alt="" height="50" width="60">--> </h2>
-
+## :computer: Operating System <!--<img src = "" alt="" height="50" width="60">-->:hammer:
 ![MacOS](https://img.shields.io/badge/macos-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 ![Debian](https://img.shields.io/badge/debian-%23A81D33.svg?style=for-the-badge&logo=Debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-%231793D1.svg?style=for-the-badge&logo=Ubuntu&logoColor=white)
 ![Redhat](https://img.shields.io/badge/Redhat-%239D9D9D.svg?style=for-the-badge&logo=Redhat&logoColor=white)
 ![Windows](https://img.shields.io/badge/windows-client/server-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
 
+## :earth_asia: Social media 
 <div id="badges">
 <a href="https://thirapat12.com" target="_blank"><img src="https://img.shields.io/badge/THIRAPAT12-%231DA1F2.svg?style=for-the-badge&logo=website&logoColor=white"></a> 
 <a href="https://discord.gg/qRQAkQVN" target="_blank"><img src="https://img.shields.io/badge/THIRAPAT12-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
@@ -57,7 +57,8 @@ Versatile IT support and Systems Engineer with over 5 years of cross-functional 
 <a href="https://twitter.com/thirapat12" target="_blank"><img src="https://img.shields.io/badge/Thirapat12-%2300EEF9.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </div>
 
-## [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=oerj8c7l8jz5bcppkuy2xw7kz&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+## :musical_note: Song For U !!
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=oerj8c7l8jz5bcppkuy2xw7kz&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thirapat1258&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
