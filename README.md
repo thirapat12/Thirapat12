@@ -41,11 +41,12 @@ Versatile IT support and Systems Engineer with over 5 years of cross-functional 
 - Observability : ELK Stack, Graylog, Prometheus, Grafana, fluentd, exporter etc. -->
 
 ## :computer: Operating System <!--<img src = "" alt="" height="50" width="60">-->:hammer:
-![MacOS](https://img.shields.io/badge/macos-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
-![Debian](https://img.shields.io/badge/debian-%23A81D33.svg?style=for-the-badge&logo=Debian&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-%231793D1.svg?style=for-the-badge&logo=Ubuntu&logoColor=white)
-![Redhat](https://img.shields.io/badge/Redhat-%239D9D9D.svg?style=for-the-badge&logo=Redhat&logoColor=white)
 ![Windows](https://img.shields.io/badge/windows-client/server-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-%231793D1.svg?style=for-the-badge&logo=Ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/debian-%23A81D33.svg?style=for-the-badge&logo=Debian&logoColor=white)
+![MacOS](https://img.shields.io/badge/macos-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
+![Redhat](https://img.shields.io/badge/Redhat-%239D9D9D.svg?style=for-the-badge&logo=Redhat&logoColor=white)
+![Coreos](https://img.shields.io/badge/fedora-coreos-%239D9D9D.svg?style=for-the-badge&logo=fedora&logoColor=white)
 
 ## :earth_asia: Social media 
 <div id="badges">
