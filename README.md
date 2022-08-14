@@ -7,8 +7,8 @@
 Versatile IT support and Systems Engineer with over 5 years of cross-functional leadership in implementation validation and deployment for the whole organization. Exceptional knowledge of CI/CD operation with hands-on experience of DevOps Engineer over 3 years. 
 
 - I'm Work on TP Consulting Outsourcing at AIS ( Advanced Info Services Public Company Limited - ITSM )
-- :icecream: I’m interested in DevOps Engineer & Data Analysis
-- :book: I’m currently learning to english language, DevOps Flow CNCF landscape
+- :icecream: I’m interested in DevOps Engineer & Data Analysis & System Engineer
+- :book: I’m currently learning to english language, DevOps Flow CNCF landscape & everythings haha !!
 - :space_invader: How to reach me wisineethirapat@gmail.com
 - :circus_tent: Ask me about Docker, Nginx, Jenkins( Jenkins Pipeline CI/CD ), K8S, ELK Stack, etc..
 ## 
@@ -40,6 +40,7 @@ Versatile IT support and Systems Engineer with over 5 years of cross-functional 
 ![Photoshop](https://img.shields.io/badge/Adobe-Photoshop-%23CDCDCE.svg?style=for-the-badge&logo=Adobe&logoColor=1B1B1F)
 ![Bash](https://img.shields.io/badge/bash-%23CDCDCE.svg?style=for-the-badge&logo=gnubash&logoColor=1B1B1F)
 ![Powershell](https://img.shields.io/badge/powershell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=1B1B1F)
+![Visual Studio Code](https://img.shields.io/badge/VisualStudio-Code-%230A66C2.svg?style=for-the-badge&logo=VSCode&logoColor=1B1B1F)
 
 <!-- - DevOps : Docker, Jenkins (Jenkins pipeline), K8S, Helm, Nexus Sonatype, Nginx, gitlab ci, github action
 - OAAS ( Operation as a service ) : Ansible ( AWX ), Rundesk
