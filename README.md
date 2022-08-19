@@ -34,6 +34,8 @@ Versatile IT support and Systems Engineer with over 5 years of cross-functional 
 ![fluentd](https://img.shields.io/badge/fluentd-bit-%230A66C2.svg?style=for-the-badge&logo=fluentd&logoColor=white)
 ![uptime-kuma](https://img.shields.io/badge/uptime-kuma-%23B1BABB.svg?style=for-the-badge&logo=uptime-kuma&logoColor=white)
 ![WordPress](https://img.shields.io/badge/wordpress-%2321759B.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![Drupal](https://img.shields.io/badge/Drupal-%2321759B.svg?style=for-the-badge&logo=Drupal&logoColor=white)
+![joomla](https://img.shields.io/badge/joomla-%2321759B.svg?style=for-the-badge&logo=joomla&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 ![Office](https://img.shields.io/badge/office_suite-%23D83B01.svg?style=for-the-badge&logo=MicrosoftOffice&logoColor=white)
 ![Python Basic](https://img.shields.io/badge/python-basic-%233570A0.svg?style=for-the-badge&logo=python&logoColor=FFE05D)
