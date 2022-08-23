@@ -71,7 +71,7 @@ Versatile IT support and Systems Engineer with over 5 years of cross-functional 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thirapat12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="center"><img align="center" src="https://visitor-badge.glitch.me/badge?page_id=THIRAPAT12.THIRAPAT12" alt="THIRAPAT12" /></div>
+![](https://komarev.com/ghpvc/?username=thirapat12&style=flat-square)
 
 <!---
 Thirapat1258/Thirapat1258 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
