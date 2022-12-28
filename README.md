@@ -22,6 +22,7 @@ Versatile IT support and Systems Engineer with over 5 years of cross-functional 
 ![Fortify](https://img.shields.io/badge/Fortify-%230db7ed.svg?style=for-the-badge&logo=Fortify&logoColor=white)
 ![Nexus-iq](https://img.shields.io/badge/nexusiq-%230db7ed.svg?style=for-the-badge&logo=nexusiq&logoColor=white)
 ![Sonarqube](https://img.shields.io/badge/Sonarqube-%230db7ed.svg?style=for-the-badge&logo=Sonarqube&logoColor=white)
+![Snyk](https://img.shields.io/badge/Snyk-%230db7ed.svg?style=for-the-badge&logo=snyk&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%230CA100.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![ANSIBLE AWX](https://img.shields.io/badge/ansible-awx-%23FF0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%230A66C2.svg?style=for-the-badge&logo=Kubernetes&logoColor=white)
