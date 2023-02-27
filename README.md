@@ -6,7 +6,7 @@
 ## :headphones: About Me 👋  
 Versatile IT support and Systems Engineer with over 5 years of cross-functional leadership in implementation validation and deployment for the whole organization. Exceptional knowledge of CI/CD operation with hands-on experience of DevOps Engineer over 3 years. 
 
-- I'm Work on TP Consulting Outsourcing at AIS ( Advanced Info Services Public Company Limited - ITSO )
+- I'm Work on TP Consulting Outsourcing at AIS ( Advanced Info Services Public Company Limited - ITSO - DEVEN )
 - :icecream: I’m interested in DevOps Engineer & Data Analysis & System Engineer
 - :book: I’m currently learning to english language, DevOps Flow CNCF landscape & everythings haha !!
 - :space_invader: How to reach me ...
