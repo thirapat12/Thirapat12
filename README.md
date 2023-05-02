@@ -20,7 +20,7 @@ Versatile IT support and Systems Engineer with over 5 years of cross-functional 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins CI/CD](https://img.shields.io/badge/jenkins-ci/cd-%230db7ed.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Fortify](https://img.shields.io/badge/Fortify-%230db7ed.svg?style=for-the-badge&logo=Fortify&logoColor=white)
-![OpenSCAP](https://img.shields.io/badge/Fortify-%230db7ed.svg?style=for-the-badge&logo=OpenSCAP&logoColor=white)
+![OpenSCAP](https://img.shields.io/badge/OpenSCAP-%230db7ed.svg?style=for-the-badge&logo=OpenSCAP&logoColor=white)
 ![Nexus-iq](https://img.shields.io/badge/nexusiq-%230db7ed.svg?style=for-the-badge&logo=nexusiq&logoColor=white)
 ![Sonarqube](https://img.shields.io/badge/Sonarqube-%230db7ed.svg?style=for-the-badge&logo=Sonarqube&logoColor=white)
 ![Snyk](https://img.shields.io/badge/Snyk-%230db7ed.svg?style=for-the-badge&logo=snyk&logoColor=white)
