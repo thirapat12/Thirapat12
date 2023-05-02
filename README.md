@@ -71,7 +71,8 @@ Versatile IT support and Systems Engineer with over 5 years of cross-functional 
 </div>
 
 ## :musical_note: Song For U !!
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=oerj8c7l8jz5bcppkuy2xw7kz&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=oerj8c7l8jz5bcppkuy2xw7kz&cover_image=true&theme=karaoke&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thirapat12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
