@@ -45,6 +45,7 @@ Versatile IT support and Systems Engineer with over 5 years of cross-functional 
 ![Drupal](https://img.shields.io/badge/Drupal-%2321759B.svg?style=for-the-badge&logo=Drupal&logoColor=white)
 ![joomla](https://img.shields.io/badge/joomla-%2321759B.svg?style=for-the-badge&logo=joomla&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+![MkDocs](https://img.shields.io/badge/MkDocs-%23E34F26.svg?style=for-the-badge&logo=MkDocs&logoColor=white)
 ![Office](https://img.shields.io/badge/office_suite-%23D83B01.svg?style=for-the-badge&logo=MicrosoftOffice&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe-Photoshop-%23CDCDCE.svg?style=for-the-badge&logo=Adobe&logoColor=1B1B1F)
 ![Linux](https://img.shields.io/badge/linux-%23CDCDCE.svg?style=for-the-badge&logo=linux&logoColor=1B1B1F)
