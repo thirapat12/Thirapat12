@@ -26,10 +26,12 @@ Versatile IT support and Systems Engineer with over 5 years of cross-functional 
 ![Snyk](https://img.shields.io/badge/Snyk-%230db7ed.svg?style=for-the-badge&logo=snyk&logoColor=white)
 ![Trivy](https://img.shields.io/badge/Trivy-%230db7ed.svg?style=for-the-badge&logo=aquasecurity&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%230CA100.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![JBOSS](https://img.shields.io/badge/jboss-%230CA100.svg?style=for-the-badge&logo=jboss&logoColor=white)
 ![ANSIBLE AWX](https://img.shields.io/badge/ansible-awx-%23FF0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%230A66C2.svg?style=for-the-badge&logo=Kubernetes&logoColor=white)
 ![Azure Kubernetes Service](https://img.shields.io/badge/AKS-%230A66C2.svg?style=for-the-badge&logo=AKS&logoColor=white)
 ![Helm](https://img.shields.io/badge/helm-%234237C6.svg?style=for-the-badge&logo=Helm&logoColor=white)
+![IIS WINDOWS SERVER](https://img.shields.io/badge/IIS-WEBSERVER-%23607078.svg?style=for-the-badge&logo=iis&logoColor=white)
 ![Vmware ESXI](https://img.shields.io/badge/ESXI-%23607078.svg?style=for-the-badge&logo=vmware&logoColor=white)
 ![PROXMOX](https://img.shields.io/badge/proxmox-%23E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white)
 ![Sonatype Nexus](https://img.shields.io/badge/sonatype-nexus-%230B8301.svg?style=for-the-badge&logo=sonatypenexus&logoColor=white)
@@ -44,7 +46,6 @@ Versatile IT support and Systems Engineer with over 5 years of cross-functional 
 ![joomla](https://img.shields.io/badge/joomla-%2321759B.svg?style=for-the-badge&logo=joomla&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 ![Office](https://img.shields.io/badge/office_suite-%23D83B01.svg?style=for-the-badge&logo=MicrosoftOffice&logoColor=white)
-![Python Basic](https://img.shields.io/badge/python-basic-%233570A0.svg?style=for-the-badge&logo=python&logoColor=FFE05D)
 ![Photoshop](https://img.shields.io/badge/Adobe-Photoshop-%23CDCDCE.svg?style=for-the-badge&logo=Adobe&logoColor=1B1B1F)
 ![Linux](https://img.shields.io/badge/linux-%23CDCDCE.svg?style=for-the-badge&logo=linux&logoColor=1B1B1F)
 ![Powershell](https://img.shields.io/badge/powershell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=1B1B1F)
@@ -53,6 +54,11 @@ Versatile IT support and Systems Engineer with over 5 years of cross-functional 
 <!-- - DevOps : Docker, Jenkins (Jenkins pipeline), K8S, Helm, Nexus Sonatype, Nginx, gitlab ci, github action
 - OAAS ( Operation as a service ) : Ansible ( AWX ), Rundesk
 - Observability : ELK Stack, Graylog, Prometheus, Grafana, fluentd, exporter etc. -->
+
+## :computer: Coding Skills
+![Angular](https://img.shields.io/badge/Angular-Beginner-%23CDCDCE.svg?style=for-the-badge&logo=Angular&logoColor=1B1B1F)
+![Maven](https://img.shields.io/badge/Javascript-Maven-%23CDCDCE.svg?style=for-the-badge&logo=javascript&logoColor=1B1B1F)
+![Python Basic](https://img.shields.io/badge/python-basic-%233570A0.svg?style=for-the-badge&logo=python&logoColor=FFE05D)
 
 ## :computer: Operating System <!--<img src = "" alt="" height="50" width="60">-->:hammer:
 ![Windows](https://img.shields.io/badge/windows-client/server-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
