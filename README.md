@@ -13,6 +13,7 @@ Versatile IT support and Systems Engineer with over 5 years of cross-functional 
 - :circus_tent: Ask me about Docker, Nginx, Jenkins( Jenkins Pipeline CI/CD ), K8S, ELK Stack, etc..
 ## 
 <p align="center"><img src="https://user-images.githubusercontent.com/7834790/183679318-f36690a0-8c11-4ec1-af94-0b1ac36b4d20.png" width=60% /></p>
+<p align="center"><img src="https://pradeepl.com/blog/gitops/Gitops-cover.png" width=60% /></p>
 
 ## :mega: Skills 
 ![ANSIBLE AWX](https://img.shields.io/badge/ansible-awx-%23FF0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
