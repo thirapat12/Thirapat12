@@ -2,6 +2,8 @@
 
 ## <p align="center">:beginner: Hi, I’m Thirapat ( Thirapat12 ) <img src="https://user-images.githubusercontent.com/7834790/184056672-9da4965c-5d3f-4cbb-acc5-14f99f03617e.png"/></p>
 
+## <p align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Thirapat12!;I'm+a+DevOps+Engineer...)](https://git.io/typing-svg)</p>
+
 
 ## :headphones: About Me 👋  
 Versatile IT support and Systems Engineer with over 5 years of cross-functional leadership in implementation validation and deployment for the whole organization. Exceptional knowledge of CI/CD operation with hands-on experience of DevOps Engineer over 3 years. 
