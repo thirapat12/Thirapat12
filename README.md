@@ -14,8 +14,7 @@ Versatile IT support and Systems Engineer with over 5 years of cross-functional 
 - :space_invader: How to reach me ...
 - :circus_tent: Ask me about Docker, Nginx, Jenkins( Jenkins Pipeline CI/CD ), K8S, ELK Stack, etc..
 ## 
-<p align="center"><img src="https://user-images.githubusercontent.com/7834790/183679318-f36690a0-8c11-4ec1-af94-0b1ac36b4d20.png" width=60% /></p>
-<p align="center"><img src="https://pradeepl.com/blog/gitops/Gitops-cover.png" width=60% /></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/7834790/183679318-f36690a0-8c11-4ec1-af94-0b1ac36b4d20.png" width=50% /><img src="https://pradeepl.com/blog/gitops/Gitops-cover.png" width=50% /></p>
 
 ## :mega: Skills 
 ![ANSIBLE AWX](https://img.shields.io/badge/ansible-awx-%23FF0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
@@ -86,7 +85,9 @@ Versatile IT support and Systems Engineer with over 5 years of cross-functional 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=oerj8c7l8jz5bcppkuy2xw7kz&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=oerj8c7l8jz5bcppkuy2xw7kz&redirect=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thirapat12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![thirapat12 github stats](https://github-readme-stats.vercel.app/api?username=thirapat12&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight" alt="mystreak"/>
+![thirapat12 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thirapat12&theme=tokyonight&layout=compact)
 
 ![](https://komarev.com/ghpvc/?username=thirapat12&style=for-the-badge)
 
