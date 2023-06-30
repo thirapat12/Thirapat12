@@ -86,8 +86,11 @@ Versatile IT support and Systems Engineer with over 5 years of cross-functional 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=oerj8c7l8jz5bcppkuy2xw7kz&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=oerj8c7l8jz5bcppkuy2xw7kz&redirect=true)
 
 ![thirapat12 github stats](https://github-readme-stats.vercel.app/api?username=thirapat12&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight" alt="mystreak"/>
-![thirapat12 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thirapat12&theme=tokyonight&layout=compact)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thirapat12&theme=tokyonight" alt="mystreak"/>
+
+<a href="https://github.com/Davekibh">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thirapat12&theme=tokyonight" />
+</a>
 
 ![](https://komarev.com/ghpvc/?username=thirapat12&style=for-the-badge)
 
