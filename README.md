@@ -16,7 +16,7 @@ Versatile IT support and Systems Engineer with over 5 years of cross-functional 
 ## 
 <p align="center"><img src="https://user-images.githubusercontent.com/7834790/183679318-f36690a0-8c11-4ec1-af94-0b1ac36b4d20.png" width=50% /><img src="https://pradeepl.com/blog/gitops/Gitops-cover.png" width=50% /></p>
 
-## :mega: Skills 
+## :mega: Tech Stack
 ![ANSIBLE AWX](https://img.shields.io/badge/ansible-awx-%23FF0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![Azure Kubernetes Service](https://img.shields.io/badge/AKS-%230A66C2.svg?style=for-the-badge&logo=AKS&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
