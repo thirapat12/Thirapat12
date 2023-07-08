@@ -39,7 +39,7 @@ Versatile IT support and Systems Engineer with over 5 years of cross-functional 
 ![Nexus-iq](https://img.shields.io/badge/nexus-iq-%230db7ed.svg?style=for-the-badge&logo=nexusiq&logoColor=white)
 
 ![ELK STACK](https://img.shields.io/badge/ELK-STACK-%23ECF30B.svg?style=for-the-badge&logo=elastic&logoColor=white)
-![fluentd](https://img.shields.io/badge/fluentd-bit-%230A66C2.svg?style=for-the-badge&logo=fluentd&logoColor=white)
+![fluentd](https://img.shields.io/badge/fluentd-fluentbit-%230A66C2.svg?style=for-the-badge&logo=fluentd&logoColor=white)
 ![Graylog](https://img.shields.io/badge/Graylog-%23B1BABB.svg?style=for-the-badge&logo=Graylog&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-%231572B6.svg?style=for-the-badge&logo=Prometheus&logoColor=white)
@@ -59,7 +59,7 @@ Versatile IT support and Systems Engineer with over 5 years of cross-functional 
 ![Powershell](https://img.shields.io/badge/powershell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=1B1B1F)
 ![Office](https://img.shields.io/badge/office_suite-%23D83B01.svg?style=for-the-badge&logo=MicrosoftOffice&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe-Photoshop-%23CDCDCE.svg?style=for-the-badge&logo=Adobe&logoColor=1B1B1F)
-![Visual Studio Code](https://img.shields.io/badge/VisualStudio-Code-%230A66C2.svg?style=for-the-badge&logo=VSCode&logoColor=1B1B1F)
+![Visual Studio Code](https://img.shields.io/badge/VisualStudio-Code-%230A66C2.svg?style=for-the-badge&logo=visual%20studio%20code&logoColor=1B1B1F)
 
 ## Profile
 Property                 | Data  
