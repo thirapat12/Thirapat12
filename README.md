@@ -78,6 +78,9 @@ Versatile IT support and Systems Engineer with over 5 years of cross-functional 
 ![PROXMOX](https://img.shields.io/badge/proxmox-%23E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white)
 ![Vmware ESXI](https://img.shields.io/badge/ESXI-%23607078.svg?style=for-the-badge&logo=vmware&logoColor=white)
 
+![Fortinet](https://img.shields.io/badge/Fortinet-EE3124.svg?style=for-the-badge&logo=Fortinet&logoColor=white)
+![Mikrotik](https://img.shields.io/badge/Mikrotik-293239.svg?style=for-the-badge&logo=Mikrotik&logoColor=white)
+
 ![Powershell](https://img.shields.io/badge/powershell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=1B1B1F)
 ![Office](https://img.shields.io/badge/office_suite-%23D83B01.svg?style=for-the-badge&logo=MicrosoftOffice&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe-Photoshop-%23CDCDCE.svg?style=for-the-badge&logo=Adobe&logoColor=1B1B1F)
