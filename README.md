@@ -44,9 +44,11 @@ Versatile IT support and Systems Engineer with over 5 years of cross-functional 
 ![npm](https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![maven](https://img.shields.io/badge/Apache%20Maven-C71A36.svg?style=for-the-badge&logo=Apache-Maven&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 ![Robot-Framework](https://img.shields.io/badge/Robot%20Framework-%23000000.svg?style=for-the-badge&logo=Robot-Framework&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A.svg?style=for-the-badge&logo=Selenium&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=Go&logoColor=white)
 
 ![ELK STACK](https://img.shields.io/badge/ELK-STACK-%23ECF30B.svg?style=for-the-badge&logo=elastic&logoColor=white)
 ![Beats](https://img.shields.io/badge/Beats-%23005571.svg?style=for-the-badge&logo=Beats&logoColor=white)
@@ -72,6 +74,7 @@ Versatile IT support and Systems Engineer with over 5 years of cross-functional 
 ![JBOSS-WildFly](https://img.shields.io/badge/WildFly-JBoss-%230CA100.svg?style=for-the-badge&logo=WildFly&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-%23F38020.svg?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4.svg?style=for-the-badge&logo=Microsoft-Azure&logoColor=white)
 ![PROXMOX](https://img.shields.io/badge/proxmox-%23E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white)
 ![Vmware ESXI](https://img.shields.io/badge/ESXI-%23607078.svg?style=for-the-badge&logo=vmware&logoColor=white)
 
