@@ -17,7 +17,7 @@ Versatile IT support and Systems Engineer with over 5 years of cross-functional 
 <p align="center"><img src="https://user-images.githubusercontent.com/7834790/183679318-f36690a0-8c11-4ec1-af94-0b1ac36b4d20.png" width=50% /><img src="https://pradeepl.com/blog/gitops/Gitops-cover.png" width=50% /></p>
 
 ## :mega: Tech Stack
-![ANSIBLE AWX](https://img.shields.io/badge/ansible-%23FF0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![ANSIBLE](https://img.shields.io/badge/ansible-%23FF0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![ANSIBLE AWX](https://img.shields.io/badge/awx-%23FF0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
 
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -28,12 +28,13 @@ Versatile IT support and Systems Engineer with over 5 years of cross-functional 
 ![Azure Kubernetes Service](https://img.shields.io/badge/AKS-%230A66C2.svg?style=for-the-badge&logo=Microsoft-Azure&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%230A66C2.svg?style=for-the-badge&logo=Kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/helm-%234237C6.svg?style=for-the-badge&logo=Helm&logoColor=white)
-![Helm](https://img.shields.io/badge/helm-%234237C6.svg?style=for-the-badge&logo=Helm&logoColor=white)
-
+![argo-cd](https://img.shields.io/badge/Argo%20cd-%234237C6.svg?style=for-the-badge&logo=Argo-cd&logoColor=white)
 
 ![Sonarqube](https://img.shields.io/badge/Sonarqube-%230db7ed.svg?style=for-the-badge&logo=Sonarqube&logoColor=white)
 ![SonarLint](https://img.shields.io/badge/SonarLint-%23CB2029.svg?style=for-the-badge&logo=SonarLint&logoColor=white)
-![Fortify-SSC](https://img.shields.io/badge/Fortify-SSC-%230db7ed.svg?style=for-the-badge&logo=Fortify-SSC&logoColor=white)
+![Robot-Framework](https://img.shields.io/badge/Robot%20Framework-%23000000.svg?style=for-the-badge&logo=Robot-Framework&logoColor=white)
+![Fortify-SSC](https://img.shields.io/badge/Fortify%20SSC-%230db7ed.svg?style=for-the-badge&logo=Fortify-SSC&logoColor=white)
+![Anchor](https://img.shields.io/badge/Anchor-%235000B9.svg?style=for-the-badge&logo=Anchor&logoColor=white)
 ![OpenSCAP](https://img.shields.io/badge/OpenSCAP-%230db7ed.svg?style=for-the-badge&logo=OpenSCAP&logoColor=white)
 ![Snyk](https://img.shields.io/badge/Snyk-%230db7ed.svg?style=for-the-badge&logo=snyk&logoColor=white)
 ![Trivy](https://img.shields.io/badge/Trivy-%230db7ed.svg?style=for-the-badge&logo=trivy&logoColor=white)
@@ -61,6 +62,7 @@ Versatile IT support and Systems Engineer with over 5 years of cross-functional 
 ![Nginx](https://img.shields.io/badge/nginx-%230CA100.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![IIS WINDOWS SERVER](https://img.shields.io/badge/IIS-WebServer-%23607078.svg?style=for-the-badge&logo=windows&logoColor=white)
 ![JBOSS-WildFly](https://img.shields.io/badge/WildFly-JBoss-%230CA100.svg?style=for-the-badge&logo=WildFly&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-%23F38020.svg?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
 ![PROXMOX](https://img.shields.io/badge/proxmox-%23E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white)
 ![Vmware ESXI](https://img.shields.io/badge/ESXI-%23607078.svg?style=for-the-badge&logo=vmware&logoColor=white)
