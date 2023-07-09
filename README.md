@@ -28,39 +28,49 @@ Versatile IT support and Systems Engineer with over 5 years of cross-functional 
 ![Azure Kubernetes Service](https://img.shields.io/badge/AKS-%230A66C2.svg?style=for-the-badge&logo=Microsoft-Azure&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%230A66C2.svg?style=for-the-badge&logo=Kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/helm-%234237C6.svg?style=for-the-badge&logo=Helm&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%230CA100.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Helm](https://img.shields.io/badge/helm-%234237C6.svg?style=for-the-badge&logo=Helm&logoColor=white)
+
 
 ![Sonarqube](https://img.shields.io/badge/Sonarqube-%230db7ed.svg?style=for-the-badge&logo=Sonarqube&logoColor=white)
-![Fortify](https://img.shields.io/badge/Fortify-%230db7ed.svg?style=for-the-badge&logo=Fortify&logoColor=white)
+![SonarLint](https://img.shields.io/badge/SonarLint-%23CB2029.svg?style=for-the-badge&logo=SonarLint&logoColor=white)
+![Fortify-SSC](https://img.shields.io/badge/Fortify-SSC-%230db7ed.svg?style=for-the-badge&logo=Fortify-SSC&logoColor=white)
 ![OpenSCAP](https://img.shields.io/badge/OpenSCAP-%230db7ed.svg?style=for-the-badge&logo=OpenSCAP&logoColor=white)
 ![Snyk](https://img.shields.io/badge/Snyk-%230db7ed.svg?style=for-the-badge&logo=snyk&logoColor=white)
-![Trivy](https://img.shields.io/badge/Trivy-%230db7ed.svg?style=for-the-badge&logo=aquasecurity&logoColor=white)
-![Sonatype Nexus](https://img.shields.io/badge/sonatype-nexus-%230B8301.svg?style=for-the-badge&logo=sonatypenexus&logoColor=white)
-![Nexus-iq](https://img.shields.io/badge/nexus-iq-%230db7ed.svg?style=for-the-badge&logo=nexusiq&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-%230db7ed.svg?style=for-the-badge&logo=trivy&logoColor=white)
+![Sonatype Nexus](https://img.shields.io/badge/sonatype-nexus-%230B8301.svg?style=for-the-badge&logo=sonatype&logoColor=white)
+![Nexus-iq](https://img.shields.io/badge/nexus-iq-%230db7ed.svg?style=for-the-badge&logo=nexus&logoColor=white)
 
 ![ELK STACK](https://img.shields.io/badge/ELK-STACK-%23ECF30B.svg?style=for-the-badge&logo=elastic&logoColor=white)
+![filebeat](https://img.shields.io/badge/filebeat-%230A66C2.svg?style=for-the-badge&logo=elastic&logoColor=white)
+![Logstash](https://img.shields.io/badge/Logstash-%23F2BD1A.svg?style=for-the-badge&logo=Logstash&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-%23005571.svg?style=for-the-badge&logo=Elasticsearch&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-%23E8478B.svg?style=for-the-badge&logo=kibana&logoColor=white)
+![kafka](https://img.shields.io/badge/kafka-%230A66C2.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![fluentd](https://img.shields.io/badge/fluentd-fluentbit-%230A66C2.svg?style=for-the-badge&logo=fluentd&logoColor=white)
 ![Graylog](https://img.shields.io/badge/Graylog-%23B1BABB.svg?style=for-the-badge&logo=Graylog&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-%231572B6.svg?style=for-the-badge&logo=Prometheus&logoColor=white)
-![uptime-kuma](https://img.shields.io/badge/uptime-kuma-%23B1BABB.svg?style=for-the-badge&logo=uptime-kuma&logoColor=white)
+![Uptime-kuma](https://img.shields.io/badge/uptime-kuma-%23B1BABB.svg?style=for-the-badge&logo=uptime-kuma&logoColor=white)
 
-![Drupal](https://img.shields.io/badge/Drupal-%2321759B.svg?style=for-the-badge&logo=Drupal&logoColor=white)
+![WordPress](https://img.shields.io/badge/wordpress-%2321759B.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![joomla](https://img.shields.io/badge/joomla-%2321759B.svg?style=for-the-badge&logo=joomla&logoColor=white)
+![Discuz!](https://img.shields.io/badge/Discuz!-%2321759B.svg?style=for-the-badge&logo=Discuz!&logoColor=white)
+![Drupal](https://img.shields.io/badge/Drupal-%2321759B.svg?style=for-the-badge&logo=Drupal&logoColor=white)
 ![MkDocs](https://img.shields.io/badge/MkDocs-%23E34F26.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-%23E34F26.svg?style=for-the-badge&logo=Markdown&logoColor=white)
-![WordPress](https://img.shields.io/badge/wordpress-%2321759B.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%230CA100.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![IIS WINDOWS SERVER](https://img.shields.io/badge/IIS-WebServer-%23607078.svg?style=for-the-badge&logo=windows&logoColor=white)
+![JBOSS-WildFly](https://img.shields.io/badge/WildFly-JBoss-%230CA100.svg?style=for-the-badge&logo=WildFly&logoColor=white)
 
-![IIS WINDOWS SERVER](https://img.shields.io/badge/IIS-WEBSERVER-%23607078.svg?style=for-the-badge&logo=iis&logoColor=white)
-![JBOSS](https://img.shields.io/badge/jboss-%230CA100.svg?style=for-the-badge&logo=jboss&logoColor=white)
 ![PROXMOX](https://img.shields.io/badge/proxmox-%23E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white)
 ![Vmware ESXI](https://img.shields.io/badge/ESXI-%23607078.svg?style=for-the-badge&logo=vmware&logoColor=white)
 
 ![Powershell](https://img.shields.io/badge/powershell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=1B1B1F)
 ![Office](https://img.shields.io/badge/office_suite-%23D83B01.svg?style=for-the-badge&logo=MicrosoftOffice&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe-Photoshop-%23CDCDCE.svg?style=for-the-badge&logo=Adobe&logoColor=1B1B1F)
-![Visual Studio Code](https://img.shields.io/badge/VisualStudio-Code-%230A66C2.svg?style=for-the-badge&logo=visual%20studio%20code&logoColor=1B1B1F)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%230A66C2.svg?style=for-the-badge&logo=visual%20studio%20code&logoColor=1B1B1F)
 
+<!--
 ## Profile
 Property                 | Data  
 -------------------------|------
@@ -72,7 +82,7 @@ Side Projects - App <img width=200/> | [![MahoMangaDownloader Badge](https://img
 Side Projects - Web      | [![Side Project Badge](https://img.shields.io/badge/-project.zmcx16.moe-00fa9a?style=flat&logoColor=white)](https://project.zmcx16.moe/) [![Axis Cult Badge](https://img.shields.io/badge/-Axis%20Cult-00eeff?style=flat&logoColor=white)](https://axiscult.zmcx16.moe/) [![Norn Minehunter Badge](https://img.shields.io/badge/-Norn%20Minehunter-gold?style=flat&logoColor=white)](https://norn-minehunter.zmcx16.moe/) [![TW Stock Lottery Secretary Badge](https://img.shields.io/badge/-TW%20Stock%20Lottery%20Secretary-3b5998?style=flat&logoColor=white)](https://www.facebook.com/%E8%82%A1%E7%A5%A8%E6%8A%BD%E7%B1%A4%E5%B0%8F%E7%A7%98%E6%9B%B8-115560563215006/) [![Protobuf Deserializer Badge](https://img.shields.io/badge/-Protobuf%20Deserializer-red?style=flat&logoColor=white)](https://protobuf-deserializer.zmcx16.moe/)
 Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx16-00acee?style=flat&logo=twitter&logoColor=white)](https://twitter.com/zmcx16/) [![Gmail Badge](https://img.shields.io/badge/-zmcx16-e54448?style=flat&logo=Gmail&logoColor=white)](mailto:zmcx16@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-zmcx16-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shunningyou/)
 
-<!-- - DevOps : Docker, Jenkins (Jenkins pipeline), K8S, Helm, Nexus Sonatype, Nginx, gitlab ci, github action
+DevOps : Docker, Jenkins (Jenkins pipeline), K8S, Helm, Nexus Sonatype, Nginx, gitlab ci, github action
 - OAAS ( Operation as a service ) : Ansible ( AWX ), Rundesk
 - Observability : ELK Stack, Graylog, Prometheus, Grafana, fluentd, exporter etc. -->
 
