@@ -1,8 +1,6 @@
 <img src="https://user-images.githubusercontent.com/7834790/184064212-df9283ed-8daa-4545-a535-5aadeaa8be47.png" alt="Page"/>
 
-## <p align="center">:beginner: Hi, I’m Thirapat ( Thirapat12 ) <img src="https://user-images.githubusercontent.com/7834790/184056672-9da4965c-5d3f-4cbb-acc5-14f99f03617e.png"/></p>
-
-## <p align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hi+there!+I'm+Thirapat12;I'm+a+DevOps+Engineer...)](https://git.io/typing-svg)</p>
+## <p align="center"> :beginner: [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hi+there!+I'm+Thirapat12;I'm+a+DevOps+Engineer...)](https://git.io/typing-svg)<img src="https://user-images.githubusercontent.com/7834790/184056672-9da4965c-5d3f-4cbb-acc5-14f99f03617e.png"/></p>
 
 
 ## :headphones: About Me 👋  
