@@ -122,9 +122,9 @@ DevOps : Docker, Jenkins (Jenkins pipeline), K8S, Helm, Nexus Sonatype, Nginx, g
 <a href="https://www.youtube.com/@ThirapatAmornsin" target="_blank"><img src="https://img.shields.io/badge/Phattime-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </div>
 
-## :musical_note: Song For U !!
+## :musical_note: Song For ytN !!
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=oerj8c7l8jz5bcppkuy2xw7kz&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=oerj8c7l8jz5bcppkuy2xw7kz&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=oerj8c7l8jz5bcppkuy2xw7kz&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 ![thirapat12 github stats](https://github-readme-stats.vercel.app/api?username=thirapat12&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=thirapat12&theme=tokyonight" alt="mystreak"/>
