@@ -135,6 +135,11 @@ DevOps : Docker, Jenkins (Jenkins pipeline), K8S, Helm, Nexus Sonatype, Nginx, g
 
 ![](https://komarev.com/ghpvc/?username=thirapat12&style=for-the-badge)
 
+<a href="https://sast.matador.ais.co.th/dashboard?id=esb-dis-tmfc800-experience-insight-management-sub-google-event-capturing" target="_blank">
+  <img src="https://sast.matador.ais.co.th/api/project_badges/measure?project=esb-dis-tmfc800-experience-insight-management-sub-google-event-capturing&metric=alert_status&token=sqb_0113e23b31acab33ec4bbf3ad9be43f4c9d51515" alt="Quality Gate Status">
+</a>
+
+
 <!---
 Thirapat1258/Thirapat1258 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
