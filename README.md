@@ -2,6 +2,7 @@
 
 ## <p align="center"> :beginner: [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hi+there!+I'm+Thirapat12;I'm+a+DevOps+Engineer...)](https://git.io/typing-svg)<img src="https://user-images.githubusercontent.com/7834790/184056672-9da4965c-5d3f-4cbb-acc5-14f99f03617e.png"/></p>
 
+## MISS U YTN
 
 ## :headphones: About Me 👋  
 Versatile IT support and Systems Engineer with over 5 years of cross-functional leadership in implementation validation and deployment for the whole organization. Exceptional knowledge of CI/CD operation with hands-on experience of DevOps Engineer over 3 years. 
@@ -134,10 +135,6 @@ DevOps : Docker, Jenkins (Jenkins pipeline), K8S, Helm, Nexus Sonatype, Nginx, g
 </a>
 
 ![](https://komarev.com/ghpvc/?username=thirapat12&style=for-the-badge)
-
-<a href="https://sast.matador.ais.co.th/dashboard?id=esb-dis-tmfc800-experience-insight-management-sub-google-event-capturing" target="_blank">
-  <img src="https://sast.matador.ais.co.th/api/project_badges/measure?project=esb-dis-tmfc800-experience-insight-management-sub-google-event-capturing&metric=alert_status&token=sqb_0113e23b31acab33ec4bbf3ad9be43f4c9d51515" alt="Quality Gate Status">
-</a>
 
 
 <!---
