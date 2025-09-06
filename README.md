@@ -23,7 +23,7 @@ Versatile IT support and Systems Engineer with over 5 years of cross-functional 
 
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Gitlab](https://img.shields.io/badge/gitlab-ci-%23F05032.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Github](https://img.shields.io/badge/github-action-%23F05032.svg?style=for-the-badge&logo=github&logoColor=white)
+![Github](https://img.shields.io/badge/github-workflows-%23F05032.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins CI/CD](https://img.shields.io/badge/jenkins-ci/cd-%230db7ed.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Azure Kubernetes Service](https://img.shields.io/badge/AKS-%230A66C2.svg?style=for-the-badge&logo=Microsoft-Azure&logoColor=white)
