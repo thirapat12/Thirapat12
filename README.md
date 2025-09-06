@@ -121,6 +121,7 @@ DevOps : Docker, Jenkins (Jenkins pipeline), K8S, Helm, Nexus Sonatype, Nginx, g
 <div id="badges">
 <a href="https://www.linkedin.com/in/thirapat-amornsin-9825ab15a"><img src="https://img.shields.io/badge/Thirapat_Amornsin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.youtube.com/@ThirapatAmornsin" target="_blank"><img src="https://img.shields.io/badge/Phattime-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="thirapat12.a@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-%23FF0000.svg?style=for-the-badge&logo=email&logoColor=white"></a>
 </div>
 
 ## :musical_note: Song For ytN !!
